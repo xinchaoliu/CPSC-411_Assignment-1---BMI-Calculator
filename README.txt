@@ -16,7 +16,7 @@
       will disappear.
       - The default is US measures, user can switch to Metric measures using
       the Metric switch. Turns one on and the other one will turn off 
-      automaticlly.
+      automatically.
       - After input the values, click the Calculate button to get the result.
       - Besides the BMI range, a picture which represent the calculated results
       will shown.                                                        
