@@ -27,6 +27,7 @@
 		B3937F4816DB3007009BEBCA /* severe thinness.png in Resources */ = {isa = PBXBuildFile; fileRef = B3937F4016DB3007009BEBCA /* severe thinness.png */; };
 		B3937F4916DB3007009BEBCA /* severe.png in Resources */ = {isa = PBXBuildFile; fileRef = B3937F4116DB3007009BEBCA /* severe.png */; };
 		B3937F4A16DB3007009BEBCA /* very severe.png in Resources */ = {isa = PBXBuildFile; fileRef = B3937F4216DB3007009BEBCA /* very severe.png */; };
+		B3937F4C16DC101A009BEBCA /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3937F4B16DC101A009BEBCA /* README.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -56,6 +57,7 @@
 		B3937F4016DB3007009BEBCA /* severe thinness.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "severe thinness.png"; sourceTree = "<group>"; };
 		B3937F4116DB3007009BEBCA /* severe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = severe.png; sourceTree = "<group>"; };
 		B3937F4216DB3007009BEBCA /* very severe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "very severe.png"; sourceTree = "<group>"; };
+		B3937F4B16DC101A009BEBCA /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +77,7 @@
 		B38D6A1516D4631800C44644 = {
 			isa = PBXGroup;
 			children = (
+				B3937F4B16DC101A009BEBCA /* README.txt */,
 				B38D6A2716D4631900C44644 /* Assignment 1 - BMI Calculator */,
 				B38D6A2016D4631900C44644 /* Frameworks */,
 				B38D6A1F16D4631900C44644 /* Products */,
@@ -200,6 +203,7 @@
 				B3937F4816DB3007009BEBCA /* severe thinness.png in Resources */,
 				B3937F4916DB3007009BEBCA /* severe.png in Resources */,
 				B3937F4A16DB3007009BEBCA /* very severe.png in Resources */,
+				B3937F4C16DC101A009BEBCA /* README.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
