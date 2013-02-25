@@ -52,7 +52,7 @@
       - If click the measures switch rapidly, sometime the two switches become
       both on or both off. Switch the other one once will repair this bug. The 
       measures label will always show the current using measures. Not sure how 
-      to fix this, I think it's ralated to the switch animation effect.       */
+      to fix this, I think it's related to the switch animation effect.       */
       
 /*  External Dependancies:
       - No external dependancies.                                             */

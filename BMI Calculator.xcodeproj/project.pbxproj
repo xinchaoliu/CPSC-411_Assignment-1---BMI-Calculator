@@ -28,6 +28,11 @@
 		B3937F4916DB3007009BEBCA /* severe.png in Resources */ = {isa = PBXBuildFile; fileRef = B3937F4116DB3007009BEBCA /* severe.png */; };
 		B3937F4A16DB3007009BEBCA /* very severe.png in Resources */ = {isa = PBXBuildFile; fileRef = B3937F4216DB3007009BEBCA /* very severe.png */; };
 		B3937F4C16DC101A009BEBCA /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = B3937F4B16DC101A009BEBCA /* README.txt */; };
+		B39F451616DC25130078218D /* 01.input value.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B39F451116DC25130078218D /* 01.input value.jpg */; };
+		B39F451716DC25130078218D /* 02.calculate.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B39F451216DC25130078218D /* 02.calculate.jpg */; };
+		B39F451816DC25130078218D /* 03.change measures.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B39F451316DC25130078218D /* 03.change measures.jpg */; };
+		B39F451916DC25130078218D /* 04.metric result.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B39F451416DC25130078218D /* 04.metric result.jpg */; };
+		B39F451A16DC25130078218D /* 05.no input warning.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B39F451516DC25130078218D /* 05.no input warning.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -58,6 +63,11 @@
 		B3937F4116DB3007009BEBCA /* severe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = severe.png; sourceTree = "<group>"; };
 		B3937F4216DB3007009BEBCA /* very severe.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "very severe.png"; sourceTree = "<group>"; };
 		B3937F4B16DC101A009BEBCA /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
+		B39F451116DC25130078218D /* 01.input value.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "01.input value.jpg"; sourceTree = "<group>"; };
+		B39F451216DC25130078218D /* 02.calculate.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 02.calculate.jpg; sourceTree = "<group>"; };
+		B39F451316DC25130078218D /* 03.change measures.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "03.change measures.jpg"; sourceTree = "<group>"; };
+		B39F451416DC25130078218D /* 04.metric result.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "04.metric result.jpg"; sourceTree = "<group>"; };
+		B39F451516DC25130078218D /* 05.no input warning.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "05.no input warning.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +87,7 @@
 		B38D6A1516D4631800C44644 = {
 			isa = PBXGroup;
 			children = (
+				B39F451016DC25130078218D /* snapshots */,
 				B3937F4B16DC101A009BEBCA /* README.txt */,
 				B38D6A2716D4631900C44644 /* Assignment 1 - BMI Calculator */,
 				B38D6A2016D4631900C44644 /* Frameworks */,
@@ -137,6 +148,18 @@
 				B38D6A3716D4631900C44644 /* Default-568h@2x.png */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B39F451016DC25130078218D /* snapshots */ = {
+			isa = PBXGroup;
+			children = (
+				B39F451116DC25130078218D /* 01.input value.jpg */,
+				B39F451216DC25130078218D /* 02.calculate.jpg */,
+				B39F451316DC25130078218D /* 03.change measures.jpg */,
+				B39F451416DC25130078218D /* 04.metric result.jpg */,
+				B39F451516DC25130078218D /* 05.no input warning.jpg */,
+			);
+			path = snapshots;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -204,6 +227,11 @@
 				B3937F4916DB3007009BEBCA /* severe.png in Resources */,
 				B3937F4A16DB3007009BEBCA /* very severe.png in Resources */,
 				B3937F4C16DC101A009BEBCA /* README.txt in Resources */,
+				B39F451616DC25130078218D /* 01.input value.jpg in Resources */,
+				B39F451716DC25130078218D /* 02.calculate.jpg in Resources */,
+				B39F451816DC25130078218D /* 03.change measures.jpg in Resources */,
+				B39F451916DC25130078218D /* 04.metric result.jpg in Resources */,
+				B39F451A16DC25130078218D /* 05.no input warning.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
