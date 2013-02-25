@@ -116,7 +116,7 @@
                                 <nil key="highlightedColor"/>
                             </label>
                         </subviews>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <constraints>
                             <constraint firstItem="qEh-am-xYO" firstAttribute="centerX" secondItem="lAt-o0-Kv4" secondAttribute="centerX" type="default" id="1Iy-2f-ZC7"/>
                             <constraint firstItem="Jkv-Hv-A28" firstAttribute="leading" secondItem="3" secondAttribute="leading" constant="20" symbolic="YES" type="default" id="20U-Cx-wh0"/>
@@ -175,6 +175,37 @@
             </objects>
         </scene>
     </scenes>
+    <classes>
+        <class className="NSLayoutConstraint" superclassName="NSObject">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/NSLayoutConstraint.h"/>
+        </class>
+        <class className="ViewController" superclassName="UIViewController">
+            <source key="sourceIdentifier" type="project" relativePath="./Classes/ViewController.h"/>
+            <relationships>
+                <relationship kind="action" name="calculate:"/>
+                <relationship kind="action" name="metricSwitchChanged:"/>
+                <relationship kind="action" name="usSwitchChanged:"/>
+                <relationship kind="outlet" name="_bmiLabel" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="_heightLabel" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="_heightTextField" candidateClass="UITextField"/>
+                <relationship kind="outlet" name="_image" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="_metricSwitch" candidateClass="UISwitch"/>
+                <relationship kind="outlet" name="_rangeLabel" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="_usSwitch" candidateClass="UISwitch"/>
+                <relationship kind="outlet" name="_weightLabel" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="_weightTextField" candidateClass="UITextField"/>
+                <relationship kind="outlet" name="bmiLabel" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="heightLabel" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="heightTextField" candidateClass="UITextField"/>
+                <relationship kind="outlet" name="image" candidateClass="UIImageView"/>
+                <relationship kind="outlet" name="metricSwitch" candidateClass="UISwitch"/>
+                <relationship kind="outlet" name="rangeLabel" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="usSwitch" candidateClass="UISwitch"/>
+                <relationship kind="outlet" name="weightLabel" candidateClass="UILabel"/>
+                <relationship kind="outlet" name="weightTextField" candidateClass="UITextField"/>
+            </relationships>
+        </class>
+    </classes>
     <simulatedMetricsContainer key="defaultSimulatedMetrics">
         <simulatedStatusBarMetrics key="statusBar"/>
         <simulatedOrientationMetrics key="orientation"/>

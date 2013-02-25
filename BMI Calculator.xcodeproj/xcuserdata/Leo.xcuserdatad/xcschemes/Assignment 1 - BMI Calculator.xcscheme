@@ -17,7 +17,7 @@
                BlueprintIdentifier = "B38D6A1D16D4631800C44644"
                BuildableName = "Assignment 1 - BMI Calculator.app"
                BlueprintName = "Assignment 1 - BMI Calculator"
-               ReferencedContainer = "container:Assignment 1 - BMI Calculator.xcodeproj">
+               ReferencedContainer = "container:BMI Calculator.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
             BlueprintIdentifier = "B38D6A1D16D4631800C44644"
             BuildableName = "Assignment 1 - BMI Calculator.app"
             BlueprintName = "Assignment 1 - BMI Calculator"
-            ReferencedContainer = "container:Assignment 1 - BMI Calculator.xcodeproj">
+            ReferencedContainer = "container:BMI Calculator.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -54,7 +54,7 @@
             BlueprintIdentifier = "B38D6A1D16D4631800C44644"
             BuildableName = "Assignment 1 - BMI Calculator.app"
             BlueprintName = "Assignment 1 - BMI Calculator"
-            ReferencedContainer = "container:Assignment 1 - BMI Calculator.xcodeproj">
+            ReferencedContainer = "container:BMI Calculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -72,7 +72,7 @@
             BlueprintIdentifier = "B38D6A1D16D4631800C44644"
             BuildableName = "Assignment 1 - BMI Calculator.app"
             BlueprintName = "Assignment 1 - BMI Calculator"
-            ReferencedContainer = "container:Assignment 1 - BMI Calculator.xcodeproj">
+            ReferencedContainer = "container:BMI Calculator.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

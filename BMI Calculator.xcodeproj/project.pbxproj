@@ -165,7 +165,7 @@
 				LastUpgradeCheck = 0460;
 				ORGANIZATIONNAME = "Xinchao Liu";
 			};
-			buildConfigurationList = B38D6A1916D4631800C44644 /* Build configuration list for PBXProject "Assignment 1 - BMI Calculator" */;
+			buildConfigurationList = B38D6A1916D4631800C44644 /* Build configuration list for PBXProject "BMI Calculator" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -318,7 +318,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		B38D6A1916D4631800C44644 /* Build configuration list for PBXProject "Assignment 1 - BMI Calculator" */ = {
+		B38D6A1916D4631800C44644 /* Build configuration list for PBXProject "BMI Calculator" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				B38D6A3F16D4631900C44644 /* Debug */,
